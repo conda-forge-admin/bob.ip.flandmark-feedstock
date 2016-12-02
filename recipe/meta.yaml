@@ -10,7 +10,7 @@ source:
   url: https://pypi.io/packages/source/b/bob.ip.flandmark/bob.ip.flandmark-{{ version }}.zip
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
@@ -27,7 +27,7 @@ requirements:
     - bob.ip.color
     - bob.ip.draw
     - matplotlib
-    - boost 1.61.*
+    - boost 1.62.*
     - pkg-config
 
   run:
@@ -41,7 +41,7 @@ requirements:
     - bob.ip.color
     - bob.ip.draw
     - matplotlib
-    - boost 1.61.*
+    - boost 1.62.*
 
 test:
   commands:
