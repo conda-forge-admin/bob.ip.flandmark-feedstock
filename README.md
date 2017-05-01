@@ -11,6 +11,18 @@ Summary: Python bindings to the flandmark keypoint localization library
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.ip.flandmark-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.ip.flandmark-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.ip.flandmark-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.ip.flandmark-feedstock)
+Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.ip.flandmark/badges/version.svg)](https://anaconda.org/conda-forge/bob.ip.flandmark)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.ip.flandmark/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.ip.flandmark)
+
 Installing bob.ip.flandmark
 ===========================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `bob.ip.flandmark` available on yo
 ```
 conda search bob.ip.flandmark --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.ip.flandmark-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.ip.flandmark-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.ip.flandmark-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.ip.flandmark-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.ip.flandmark/badges/version.svg)](https://anaconda.org/conda-forge/bob.ip.flandmark)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.ip.flandmark/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.ip.flandmark)
 
 
 Updating bob.ip.flandmark-feedstock
